@@ -1,0 +1,3460 @@
+@media(max-width:480px){
+      /* first */
+  
+      .para{
+          height: auto;
+          /* border: 3px solid rgb(123, 255, 0); */
+          padding-left: 20px;
+          width: 60%;
+          position: absolute;
+          top: 35%;
+          left: 7rem;
+        
+      }
+      .para>.fs-1{
+        font-size: 25px;
+        /* border: 4px solid gold; */
+      
+      }
+      .para >p{
+          position: relative;
+        /* border: 4px solid gold; */
+         left: 3px;
+      }
+     
+      .main>.navmenu{
+        /* border: 2px solid aqua; */
+        width: 60%;
+        left: 6rem;
+      
+      }
+      .main>.navmenu>ul{
+        /* border: 2px solid lime; */
+        width: 100%;
+      }
+      .main>.navmenu>ul>li{
+        /* border: 2px solid red; */
+        font-size: 15px;
+      }
+  
+      /* first */
+      /* second */
+      .funds{
+          /* margin: 5px; */
+          /* border: 2px solid blue; */
+          height: 180vh;
+          width: 100%;
+      
+          background-image: linear-gradient(to top,rgb(0, 0, 0,1),rgba(22, 20, 20, 0.2)),
+          url('https://img.freepik.com/free-photo/billie-dollar-money-background_1150-749.jpg?t=st=1713542968~exp=1713546568~hmac=ed8202506c0bd89b1bff38d693ecaa2d38c804b47040a9517fc2b0da60dad6dd&w=996');
+          background-repeat: no-repeat;
+          background-position: top;
+          background-size: 100% 100%;
+        
+      
+      }
+      .funds>.heading{
+          /* border: 2px solid aqua; */
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          gap: 13px;
+          position: relative;
+          top: 150px;
+      }
+      .funds>.heading>h1{
+          /* border: 3px solid purple; */
+          font-size: 100px;
+          font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+          background-color: gold;
+          padding: 0px 20px;
+          margin-top: 100px;
+        
+      }
+      .funds>.heading>.right-heading{
+        /* border: 3px solid rgb(201, 235, 8); */
+        margin-top: 100px;
+        
+          color: gold;
+          font-size: 10px;
+          font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      }
+      .arrow>h1{
+        color: gold;
+        font-size: 20px;
+        font-family: 'Times New Roman', Times, serif;
+        border: 2px solid gold;
+        box-sizing: content-box;
+        width: fit-content;
+        text-align: center;
+        margin-left: 2rem;
+        position: relative;
+        margin-top: 170px;
+      padding: 3px;
+        
+      } 
+      
+      .arrow>h1>i{
+        /* border: 2px solid orange; */
+        padding: 10px;
+        position: relative;
+        color: black;
+        background-color: gold;
+      }
+      .funds-bottom{
+       color: white;
+        width: 80%;
+        height: 19%;
+        /* border-left: 3px solid gold; */
+        /* border: 2px solid red; */
+        font-size: 25px;
+      line-height: 5px;
+      position:relative;
+      margin-top: 18rem;
+      color: white;
+      margin-left: 3rem;
+      }
+    
+      .funds-bottom>.funds-bottom-text>h1{
+      /* border: 2px solid aqua; */
+      /* border-left: 4px solid gold;   */
+      height: 15rem;
+      margin-left: 1rem;
+      padding-left: 20px;
+      text-align: start;
+      }
+      
+       /*-------------------- second-------------------------*/
+       /*---------------- third/--------------------- */
+     
+      .three{
+       
+          /* border: 2px solid blue; */
+          margin: 5px;
+      
+          height: 180vh;
+          width: 100%;
+          /* margin-bottom: 100px; */
+      
+          overflow: hidden;
+      
+      }
+      
+      
+      
+      .three>.three-top{
+          /* border: 2px solid black; */
+          height: 50%;
+      
+          position: relative;
+      }
+      .three>.three-top>.three-top1{
+          background-image: url('https://img.freepik.com/free-photo/home-room-design-with-copy-space_23-2148786463.jpg?t=st=1713609443~exp=1713613043~hmac=d27526c8956dab48ded2e6234e83f6577641b076278057592ad98e8bfbb0a70c&w=1380');
+          background-repeat: no-repeat;
+          background-size: 100% 100%;
+          background-position: center;
+          height: 100%;
+          width: 100%;
+      
+      }
+      .three-top-circle{
+          background-color: orangered;
+          border-radius: 50%;
+      }
+      .three>.three-top>.three-top2{
+          height: 200px;
+          width: 200px;
+          position: absolute;
+          top: -12%;
+          left: -7%;
+         
+      }
+      .three>.three-top>.three-top3{
+          height: 150px;
+          width: 150px;
+      
+          z-index: 1000;
+      
+          position: absolute;
+          bottom: -15%;
+          left: -15%;
+        
+      }
+      .three>.three-top>.three-top4{
+          height: 100px;
+          width: 100px;
+          position: absolute;
+          bottom: 0;
+          right: -6.5%;
+      }
+      .three>.three-bottom{
+          background-color: black;
+          height: 50%;
+      
+          position: relative;
+      }
+      .three>.three-bottom>.three-bottom-heading{
+          border: 2px solid black;
+          padding: 30px;
+         
+      }
+      .three .three-bottom-heading>h1{
+          text-align: center;
+          font-size: 40px;
+          font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+          color:orangered;
+      }
+      .three .three-bottom-heading>p{
+          text-align: center;
+          font-size: 20px;
+          font-weight: 100;
+          
+          color:orangered;
+      }
+      .three-bottom .three-bottom-body{
+          /* border: 2px solid blue; */
+          position: absolute;
+          width: 100%;
+          bottom: 20px;
+          left: 0;
+          /* background-color: aqua; */
+      }
+      .three-bottom .three-bottom-body>h2{
+      color: white;
+      /* margin: 5px auto; */
+      /* background-color: aqua; */
+      width: 70%;
+      text-align: start;
+      position: relative;
+      margin-left: 8rem;
+      }
+      .three-bottom .three-bottom-body>h2::before{
+          content: '';
+          background-color: orangered;
+          height: 50%;
+          width: 5%;
+          border-radius: 50%;
+          position: absolute;
+          top: 30%;
+          left: -3rem;
+        
+      }
+      /* horizonal line */
+   
+      
+         /* third/ */
+  
+         /* footer */
+         /* footer section */
+  
+  
+  .fifth{
+      /* border: 2px solid black; */
+      height: 120vh;
+      padding: 20px;
+  
+      position: relative;
+  
+      background-image: url('https://www.shutterstock.com/shutterstock/photos/501125683/display_1500/stock-photo-stylish-office-table-desk-workspace-with-laptop-diary-succulent-on-white-background-flat-lay-501125683.jpg');
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+  }
+  .fifth>.fifth-heading{
+      /* border: 2px solid black; */
+  }
+  .fifth>.fifth-heading>h1{
+      font-size: 80px;
+      color: black;
+      text-align: center;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  .fifth>.fifth-content{
+      /* border: 2px solid green; */
+      line-height: 40px;
+  }
+  .fifth>.fifth-content>p{
+  font-size: 40px;
+  color: black;
+  font-weight: 900;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+  }
+  .fifth>.fifth-content>h2{
+      background-color: black;
+      text-align: center;
+      padding: 5px;
+      color: white;
+      width: 60%;
+      margin: 25px auto;
+      position: relative;
+      z-index: 10;
+  }
+  .fifth>.fifth-content>h2::before{
+      content: '';
+      background-color: transparent;
+      border: 6px solid black;
+      height: 100%;
+      width: 90%;
+  
+      position: absolute;
+      top: 25%;
+      left: 4%;
+  
+      z-index: -1;
+  
+  
+  }
+  .fifth>.fifth-content>h3{
+      font-size: 30px;
+      font-weight: 900;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     text-align: center;
+  }
+  .fifth>.fifth-footer-content{
+  /* border: 2px solid black; */
+  width: 90%;
+  position: absolute;
+  bottom: 15%;
+  left: 5%;
+  }
+  
+  .fifth>.fifth-footer-content>.top{
+      /* background-color: aqua; */
+      display: flex;
+      justify-content:start;
+      width: 100%;
+     
+  
+  }
+  .fifth>.fifth-footer-content>.top h2{
+      /* border: 2px solid black; */
+      text-align: center;
+     position: relative;
+     width: 100%;
+     color:black;
+     font-size: 18px;
+  }
+  .fifth>.fifth-footer-content>.top h2:before{
+      content: "";
+      background-color: rgb(10, 10, 10);
+      height: 30%;
+      width: 10%;
+      position: absolute;
+      top: 5%;
+      left: -3%;
+      border-radius: 50%;
+  }
+  
+   
+  
+  .fifth>.fifth-footer-content>.bottom{
+      /* background-color: aqua; */
+      display: flex;
+      justify-content: center;
+       /* background-color: wheat; */
+       margin: 5px 0 !important;
+  }
+  .fifth>.fifth-footer-content>.bottom h2{
+      /* border: 2px solid black; */
+      text-align: center;
+     position: relative;
+     width: 50%;
+     color: rgb(10, 10, 10);
+     font-size: 18px;
+  }
+  .fifth>.fifth-footer-content>.bottom h2:before{
+      content: "";
+      background-color: rgb(10, 10, 10);
+      height: 70%;
+      width: 8%;
+      position: absolute;
+      top: 15%;
+      left: -5%;
+      border-radius: 50%;
+  }
+         /* footer */
+  }
+ /* <-------------------------------------------------->  */
+  /* 481px to 581px */
+  @media (min-width:481px) and (max-width:581px){
+      /* first */
+  
+      .para{
+          height: auto;
+          /* border: 3px solid rgb(123, 255, 0); */
+          padding-left: 20px;
+          width: 60%;
+          position: absolute;
+          top: 35%;
+          left: 8rem;
+        
+      }
+      .para>.fs-1{
+        font-size: 25px;
+        /* border: 4px solid gold; */
+      
+      }
+      .para >p{
+          position: relative;
+        /* border: 4px solid gold; */
+         left: 3px;
+      }
+     
+      .main>.navmenu{
+        /* border: 2px solid aqua; */
+        width: 60%;
+        left: 6rem;
+      
+      }
+      .main>.navmenu>ul{
+        /* border: 2px solid lime; */
+        width: 100%;
+      }
+      .main>.navmenu>ul>li{
+        /* border: 2px solid red; */
+        font-size: 15px;
+      }
+  
+      /* first */
+      /* second */
+      .funds{
+          /* margin: 5px; */
+          /* border: 2px solid blue; */
+          height: 180vh;
+          width: 100%;
+      
+          background-image: linear-gradient(to top,rgb(0, 0, 0,1),rgba(22, 20, 20, 0.2)),
+          url('https://img.freepik.com/free-photo/billie-dollar-money-background_1150-749.jpg?t=st=1713542968~exp=1713546568~hmac=ed8202506c0bd89b1bff38d693ecaa2d38c804b47040a9517fc2b0da60dad6dd&w=996');
+          background-repeat: no-repeat;
+          background-position: top;
+          background-size: 100% 100%;
+        
+      
+      }
+      .funds>.heading{
+          /* border: 2px solid aqua; */
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          gap: 13px;
+          position: relative;
+          top: 150px;
+      }
+      .funds>.heading>h1{
+          /* border: 3px solid purple; */
+          font-size: 100px;
+          font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+          /* background-color: gold; */
+          padding: 0px 20px;
+          margin-top: 100px;
+        
+      }
+      .funds>.heading>.right-heading{
+        /* border: 3px solid rgb(201, 235, 8); */
+        margin-top: 100px;
+        
+          color: gold;
+          font-size: 10px;
+          font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      }
+      .arrow>h1{
+        color: gold;
+        font-size: 20px;
+        font-family: 'Times New Roman', Times, serif;
+        border: 2px solid gold;
+        box-sizing: content-box;
+        width: fit-content;
+        text-align: center;
+        margin-left: 3rem;
+        position: relative;
+        left: 10%;
+        margin-top: 170px;
+        padding: 3px;
+        
+      } 
+      
+      .arrow>h1>i{
+        /* border: 2px solid orange; */
+        padding: 10px;
+        position: relative;
+        color: black;
+        background-color: gold;
+      }
+      .funds-bottom{
+      
+        color: white;
+        width: 80%;
+  height: 15%;
+  
+        /* border-left: 3px solid gold; */
+        /* border: 2px solid red; */
+        font-size: 25px;
+      line-height: 5px;
+      position:relative;
+      left: 10%;
+      margin-top: 18rem;
+      color: white;
+      margin-left: 3rem;
+      }
+    
+      .funds-bottom>.funds-bottom-text>h1{
+      /* border: 2px solid aqua; */
+      /* border-left: 4px solid gold;   */
+      height: 15rem;
+      margin-left: 1rem;
+      padding-left: 20px;
+      text-align: start;
+      }
+      
+       /*-------------------- second-------------------------*/
+       /*---------------- third/--------------------- */
+     
+      .three{
+       
+          /* border: 2px solid blue; */
+          margin: 5px;
+      
+          height: 180vh;
+          width: 100%;
+          /* margin-bottom: 100px; */
+      
+          overflow: hidden;
+      
+      }
+      
+      
+      
+      .three>.three-top{
+          /* border: 2px solid black; */
+          height: 50%;
+      
+          position: relative;
+      }
+      .three>.three-top>.three-top1{
+          background-image: url('https://img.freepik.com/free-photo/home-room-design-with-copy-space_23-2148786463.jpg?t=st=1713609443~exp=1713613043~hmac=d27526c8956dab48ded2e6234e83f6577641b076278057592ad98e8bfbb0a70c&w=1380');
+          background-repeat: no-repeat;
+          background-size: 100% 100%;
+          background-position: center;
+          height: 100%;
+          width: 100%;
+      
+      }
+      .three-top-circle{
+          background-color: orangered;
+          border-radius: 50%;
+      }
+      .three>.three-top>.three-top2{
+          height: 200px;
+          width: 200px;      
+          position: absolute;
+          top: -12%;
+          left: -5%;
+         
+      }
+      .three>.three-top>.three-top3{
+          height: 150px;
+          width: 150px;      
+          z-index: 1000;
+         position: absolute;
+          bottom: -15%;
+          left: -11%;
+        
+      }
+      .three>.three-top>.three-top4{
+          height: 100px;
+          width: 100px;
+          position: absolute;
+          bottom: 0;
+          right: -6.5%;
+      }
+      .three>.three-bottom{
+          background-color: black;
+          height: 50%;
+      
+          position: relative;
+      }
+      .three>.three-bottom>.three-bottom-heading{
+          border: 2px solid black;
+          padding: 30px;
+         
+      }
+      .three .three-bottom-heading>h1{
+          text-align: center;
+          font-size: 40px;
+          font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+          color:orangered;
+      }
+      .three .three-bottom-heading>p{
+          text-align: center;
+          font-size: 20px;
+          font-weight: 100;
+          
+          color:orangered;
+      }
+      .three-bottom .three-bottom-body{
+          /* border: 2px solid blue; */
+          position: absolute;
+          width: 100%;
+          bottom: 20px;
+          left: 10%;
+          /* background-color: aqua; */
+      }
+      .three-bottom .three-bottom-body>h2{
+      color: white;
+      /* margin: 5px auto; */
+      /* background-color: aqua; */
+      width: 70%;
+      text-align: start;
+      position: relative;
+      margin-left: 8rem;
+      }
+      .three-bottom .three-bottom-body>h2::before{
+          content: '';
+          background-color: orangered;
+          height: 50%;
+          width: 4%;
+          border-radius: 50%;
+          position: absolute;
+          top: 30%;
+          left: -3rem;
+        
+      }
+      /* horizonal line */
+   
+      
+         /* third/ */
+  
+         /* footer */
+         /* footer section */
+  
+  
+  .fifth{
+      /* border: 2px solid black; */
+      height: 120vh;
+      padding: 20px;
+  
+      position: relative;
+  
+      background-image: url('https://www.shutterstock.com/shutterstock/photos/501125683/display_1500/stock-photo-stylish-office-table-desk-workspace-with-laptop-diary-succulent-on-white-background-flat-lay-501125683.jpg');
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+  }
+  .fifth>.fifth-heading{
+      /* border: 2px solid black; */
+  }
+  .fifth>.fifth-heading>h1{
+      font-size: 80px;
+      color: black;
+      text-align: center;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  .fifth>.fifth-content{
+      /* border: 2px solid green; */
+      line-height: 40px;
+  }
+  .fifth>.fifth-content>p{
+  font-size: 40px;
+  color: black;
+  font-weight: 900;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+  }
+  .fifth>.fifth-content>h2{
+      background-color: black;
+      text-align: center;
+      padding: 5px;
+      color: white;
+      width: 60%;
+      margin: 25px auto;
+      position: relative;
+      z-index: 10;
+  }
+  .fifth>.fifth-content>h2::before{
+      content: '';
+      background-color: transparent;
+      border: 6px solid black;
+      height: 100%;
+      width: 90%;
+  
+      position: absolute;
+      top: 25%;
+      left: 4%;
+  
+      z-index: -1;
+  
+  
+  }
+  .fifth>.fifth-content>h3{
+      font-size: 30px;
+      font-weight: 900;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     text-align: center;
+  }
+  .fifth>.fifth-footer-content{
+  /* border: 2px solid black; */
+  width: 90%;
+  position: absolute;
+  bottom: 15%;
+  left: 5%;
+  }
+  
+  .fifth>.fifth-footer-content>.top{
+      /* background-color: aqua; */
+      display: flex;
+      justify-content:start;
+      width: 100%;
+     margin: 0 auto;
+  
+  }
+  .fifth>.fifth-footer-content>.top h2{
+      /* border: 2px solid black; */
+      text-align: center;
+     position: relative;
+     width: 120%;
+     color:black;
+     font-size: 18px;
+  }
+  .fifth>.fifth-footer-content>.top h2:before{
+      content: "";
+      background-color: rgb(10, 10, 10);
+      height: 35%;
+      width: 8%;
+      position: absolute;
+      top: 5%;
+      left: -2%;
+      border-radius: 50%;
+  }
+  
+   
+  
+  .fifth>.fifth-footer-content>.bottom{
+      /* background-color: aqua; */
+      display: flex;
+      justify-content: center;
+       /* background-color: wheat; */
+       margin: 5px 0 !important;
+  }
+  .fifth>.fifth-footer-content>.bottom h2{
+      /* border: 2px solid black; */
+      text-align: center;
+     position: relative;
+     width: 50%;
+     color: rgb(10, 10, 10);
+     font-size: 18px;
+  }
+  .fifth>.fifth-footer-content>.bottom h2:before{
+      content: "";
+      background-color: rgb(10, 10, 10);
+      height: 70%;
+      width: 6%;
+      position: absolute;
+      top: 15%;
+      left: -3%;
+      border-radius: 50%;
+  }
+         /* footer */
+  }
+  
+  /* 582px to 682px */
+  @media (min-width:582px) and (max-width:682px){
+      /* first */
+  
+      .para{
+          height: auto;
+          /* border: 3px solid rgb(123, 255, 0); */
+          padding-left: 20px;
+          width: 60%;
+          position: absolute;
+          top: 35%;
+          left: 8rem;
+        
+      }
+      .para>.fs-1{
+        font-size: 25px;
+        /* border: 4px solid gold; */
+      
+      }
+      .para >p{
+          position: relative;
+        /* border: 4px solid gold; */
+         left: 3px;
+      }
+     
+      .main>.navmenu{
+        /* border: 2px solid aqua; */
+        width: 60%;
+        left: 6rem;
+      
+      }
+      .main>.navmenu>ul{
+        /* border: 2px solid lime; */
+        width: 100%;
+      }
+      .main>.navmenu>ul>li{
+        /* border: 2px solid red; */
+        font-size: 15px;
+      }
+  
+      /* first */
+      /* second */
+      .funds{
+          /* margin: 5px; */
+          /* border: 2px solid blue; */
+          height: 180vh;
+          width: 100%;
+      
+          background-image: linear-gradient(to top,rgb(0, 0, 0,1),rgba(22, 20, 20, 0.2)),
+          url('https://img.freepik.com/free-photo/billie-dollar-money-background_1150-749.jpg?t=st=1713542968~exp=1713546568~hmac=ed8202506c0bd89b1bff38d693ecaa2d38c804b47040a9517fc2b0da60dad6dd&w=996');
+          background-repeat: no-repeat;
+          background-position: top;
+          background-size: 100% 100%;
+        
+      
+      }
+      .funds>.heading{
+          /* border: 2px solid aqua; */
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          gap: 13px;
+          position: relative;
+          top: 150px;
+      }
+      .funds>.heading>h1{
+          /* border: 3px solid purple; */
+          font-size: 100px;
+          font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+          background-color: gold;
+          padding: 0px 20px;
+          margin-top: 100px;
+        
+      }
+      .funds>.heading>.right-heading{
+        /* border: 3px solid rgb(201, 235, 8); */
+        margin-top: 100px;
+        
+          color: gold;
+          font-size: 10px;
+          font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      }
+      .arrow>h1{
+        color: gold;
+        font-size: 20px;
+        font-family: 'Times New Roman', Times, serif;
+        border: 2px solid gold;
+        box-sizing: content-box;
+        width: fit-content;
+        text-align: center;
+        margin-left: 3rem;
+        position: relative;
+        left: 10%;
+        margin-top: 170px;
+      padding: 3px;
+        
+      } 
+      
+      .arrow>h1>i{
+        /* border: 2px solid orange; */
+        padding: 10px;
+        position: relative;
+        color: black;
+        background-color: gold;
+      }
+      .funds-bottom{
+      
+        color: white;
+        width: 80%;
+         height: 22%;
+  
+        /* border-left: 3px solid gold; */
+        /* border: 2px solid red; */
+        font-size: 25px;
+      line-height: 5px;
+      position:relative;
+      left: 10%;
+      margin-top: 18rem;
+      color: white;
+      margin-left: 3rem;
+      }
+    
+      .funds-bottom>.funds-bottom-text>h1{
+      /* border: 2px solid aqua; */
+      /* border-left: 4px solid gold;   */
+      height: 15rem;
+      margin-left: 1rem;
+      padding-left: 20px;
+      text-align: start;
+      }
+      
+       /*-------------------- second-------------------------*/
+       /*---------------- third/--------------------- */
+     
+      .three{
+       
+          /* border: 2px solid blue; */
+          margin: 5px;
+      
+          height: 180vh;
+          width: 100%;
+          /* margin-bottom: 100px; */
+      
+          overflow: hidden;
+      
+      }
+      
+      
+      
+      .three>.three-top{
+          /* border: 2px solid black; */
+          height: 50%;
+      
+          position: relative;
+      }
+      .three>.three-top>.three-top1{
+          background-image: url('https://img.freepik.com/free-photo/home-room-design-with-copy-space_23-2148786463.jpg?t=st=1713609443~exp=1713613043~hmac=d27526c8956dab48ded2e6234e83f6577641b076278057592ad98e8bfbb0a70c&w=1380');
+          background-repeat: no-repeat;
+          background-size: 100% 100%;
+          background-position: center;
+          height: 100%;
+          width: 100%;
+      
+      }
+      .three-top-circle{
+          background-color: orangered;
+          border-radius: 50%;
+      }
+      .three>.three-top>.three-top2{
+          height: 200px;
+          width: 200px;
+          position: absolute;
+          top: -13%;
+          left: -7%;
+         
+      }
+      .three>.three-top>.three-top3{
+          height: 150px;
+          width: 150px;
+          
+          z-index: 1000;
+      
+          position: absolute;
+          bottom: -15%;
+          left: -10%;
+        
+      }
+      .three>.three-top>.three-top4{
+          height: 100px;
+          width: 100px;
+         
+          position: absolute;
+          bottom: 0;
+          right: -5.5%;
+      }
+      .three>.three-bottom{
+          background-color: black;
+          height: 50%;
+      
+          position: relative;
+      }
+      .three>.three-bottom>.three-bottom-heading{
+          border: 2px solid black;
+          padding: 30px;
+         
+      }
+      .three .three-bottom-heading>h1{
+          text-align: center;
+          font-size: 40px;
+          font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+          color:orangered;
+      }
+      .three .three-bottom-heading>p{
+          text-align: center;
+          font-size: 20px;
+          font-weight: 100;
+          
+          color:orangered;
+      }
+      .three-bottom .three-bottom-body{
+          /* border: 2px solid blue; */
+          position: absolute;
+          width: 100%;
+          bottom: 20px;
+          left: 10%;
+          /* background-color: aqua; */
+      }
+      .three-bottom .three-bottom-body>h2{
+      color: white;
+      /* margin: 5px auto; */
+      /* background-color: aqua; */
+      width: 70%;
+      text-align: start;
+      position: relative;
+      margin-left: 8rem;
+      }
+      .three-bottom .three-bottom-body>h2::before{
+          content: '';
+          background-color: orangered;
+          height: 50%;
+          width: 4%;
+          border-radius: 50%;
+          position: absolute;
+          top: 30%;
+          left: -3rem;
+        
+      }
+      /* horizonal line */
+   
+      
+         /* third/ */
+  
+         /* footer */
+         /* footer section */
+  
+  
+  .fifth{
+      /* border: 2px solid black; */
+      height: 120vh;
+      padding: 20px;
+  
+      position: relative;
+  
+      background-image: url('https://www.shutterstock.com/shutterstock/photos/501125683/display_1500/stock-photo-stylish-office-table-desk-workspace-with-laptop-diary-succulent-on-white-background-flat-lay-501125683.jpg');
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+  }
+  .fifth>.fifth-heading{
+      /* border: 2px solid black; */
+  }
+  .fifth>.fifth-heading>h1{
+      font-size: 80px;
+      color: black;
+      text-align: center;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  .fifth>.fifth-content{
+      /* border: 2px solid green; */
+      line-height: 40px;
+  }
+  .fifth>.fifth-content>p{
+  font-size: 40px;
+  color: black;
+  font-weight: 900;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+  }
+  .fifth>.fifth-content>h2{
+      background-color: black;
+      text-align: center;
+      padding: 5px;
+      color: white;
+      width: 60%;
+      margin: 25px auto;
+      position: relative;
+      z-index: 10;
+  }
+  .fifth>.fifth-content>h2::before{
+      content: '';
+      background-color: transparent;
+      border: 6px solid black;
+      height: 100%;
+      width: 90%;
+  
+      position: absolute;
+      top: 25%;
+      left: 4%;
+  
+      z-index: -1;
+  
+  
+  }
+  .fifth>.fifth-content>h3{
+      font-size: 30px;
+      font-weight: 900;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     text-align: center;
+  }
+  .fifth>.fifth-footer-content{
+  /* border: 2px solid black; */
+  width: 90%;
+  position: absolute;
+  bottom: 15%;
+  left: 5%;
+  }
+  
+  .fifth>.fifth-footer-content>.top{
+      /* background-color: aqua; */
+      display: flex;
+      justify-content:start;
+      width: 100%;
+     margin: 0 auto;
+  
+  }
+  .fifth>.fifth-footer-content>.top h2{
+      /* border: 2px solid black; */
+      text-align: center;
+     position: relative;
+     width: 120%;
+     color:black;
+     font-size: 18px;
+  }
+  .fifth>.fifth-footer-content>.top h2:before{
+      content: "";
+      background-color: rgb(10, 10, 10);
+      height: 70%;
+      width: 8%;
+      position: absolute;
+      top: 5%;
+      left: -2%;
+      border-radius: 50%;
+  }
+  
+   
+  
+  .fifth>.fifth-footer-content>.bottom{
+      /* background-color: aqua; */
+      display: flex;
+      justify-content: center;
+       /* background-color: wheat; */
+       margin: 5px 0 !important;
+  }
+  .fifth>.fifth-footer-content>.bottom h2{
+      /* border: 2px solid black; */
+      text-align: center;
+     position: relative;
+     width: 50%;
+     color: rgb(10, 10, 10);
+     font-size: 18px;
+  }
+  .fifth>.fifth-footer-content>.bottom h2:before{
+      content: "";
+      background-color: rgb(10, 10, 10);
+      height: 70%;
+      width: 6%;
+      position: absolute;
+      top: 15%;
+      left: -3%;
+      border-radius: 50%;
+  }
+         /* footer */
+  }
+  
+  /* 683px to 783px */
+  @media (min-width:683px) and (max-width:783px){
+      /* first */
+  
+      .para{
+          height: auto;
+          /* border: 3px solid rgb(123, 255, 0); */
+          padding-left: 20px;
+          width: 60%;
+          position: absolute;
+          top: 35%;
+          left: 12rem;
+        
+      }
+      .para>.fs-1{
+        font-size: 30px;
+        /* border: 4px solid gold; */
+      
+      }
+      .para >p{
+          position: relative;
+        /* border: 4px solid gold; */
+         left: 3px;
+      }
+     
+      .main>.navmenu{
+        /* border: 2px solid aqua; */
+        width: 60%;
+        left: 9rem;
+      
+      }
+      .main>.navmenu>ul{
+        /* border: 2px solid lime; */
+        width: 100%;
+      }
+      .main>.navmenu>ul>li{
+        /* border: 2px solid red; */
+        font-size: 15px;
+      }
+  
+      /* first */
+      /* second */
+      .funds{
+          /* margin: 5px; */
+          /* border: 2px solid blue; */
+          height: 180vh;
+          width: 100%;
+      
+          background-image: linear-gradient(to top,rgb(0, 0, 0,1),rgba(22, 20, 20, 0.2)),
+          url('https://img.freepik.com/free-photo/billie-dollar-money-background_1150-749.jpg?t=st=1713542968~exp=1713546568~hmac=ed8202506c0bd89b1bff38d693ecaa2d38c804b47040a9517fc2b0da60dad6dd&w=996');
+          background-repeat: no-repeat;
+          background-position: top;
+          background-size: 100% 100%;
+        
+      
+      }
+      .funds>.heading{
+          /* border: 2px solid aqua; */
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          gap: 13px;
+          position: relative;
+          top: 150px;
+      }
+      .funds>.heading>h1{
+          /* border: 3px solid purple; */
+          font-size: 100px;
+          font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+          background-color: gold;
+          padding: 0px 20px;
+          margin-top: 100px;
+        
+      }
+      .funds>.heading>.right-heading{
+        /* border: 3px solid rgb(201, 235, 8); */
+        margin-top: 100px;
+        
+          color: gold;
+          font-size: 10px;
+          font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      }
+      .arrow>h1{
+        color: gold;
+        font-size: 20px;
+        font-family: 'Times New Roman', Times, serif;
+        border: 2px solid gold;
+        box-sizing: content-box;
+        width: fit-content;
+        text-align: center;
+        margin-left: 3rem;
+        position: relative;
+        left: 17%;
+        margin-top: 170px;
+      /* padding: 3px; */
+        
+      } 
+      
+      .arrow>h1>i{
+        /* border: 2px solid orange; */
+        padding: 10px;
+        position: relative;
+        color: black;
+        background-color: gold;
+      }
+      .funds-bottom{
+      
+        color: white;
+        width: 80%;
+       height: 30%;
+  
+        /* border-left: 3px solid gold; */
+        /* border: 2px solid red; */
+        font-size: 25px;
+      line-height: 5px;
+      position:relative;
+      left: 10%;
+      margin-top: 18rem;
+      color: white;
+      margin-left: 3rem;
+      }
+    
+      .funds-bottom>.funds-bottom-text>h1{
+      /* border: 2px solid aqua; */
+      /* border-left: 4px solid gold;   */
+      height: 15rem;
+      margin-left: 1rem;
+      padding-left: 20px;
+      text-align: start;
+      }
+      
+       /*-------------------- second-------------------------*/
+       /*---------------- third/--------------------- */
+     
+      .three{
+       
+          /* border: 2px solid blue; */
+          margin: 5px;
+      
+          height: 180vh;
+          width: 100%;
+          /* margin-bottom: 100px; */
+      
+          overflow: hidden;
+      
+      }
+      
+      
+      
+      .three>.three-top{
+          /* border: 2px solid black; */
+          height: 50%;
+      
+          position: relative;
+      }
+      .three>.three-top>.three-top1{
+          background-image: url('https://img.freepik.com/free-photo/home-room-design-with-copy-space_23-2148786463.jpg?t=st=1713609443~exp=1713613043~hmac=d27526c8956dab48ded2e6234e83f6577641b076278057592ad98e8bfbb0a70c&w=1380');
+          background-repeat: no-repeat;
+          background-size: 100% 100%;
+          background-position: center;
+          height: 100%;
+          width: 100%;
+      
+      }
+      .three-top-circle{
+          background-color: orangered;
+          border-radius: 50%;
+      }
+      .three>.three-top>.three-top2{
+          height: 200px;
+          width: 200px;
+      
+          position: absolute;
+          top: -14%;
+          left: -7%;
+         
+      }
+      .three>.three-top>.three-top3{
+          height: 150px;
+          width: 150px;
+      
+          z-index: 1000;
+      
+          position: absolute;
+          bottom: -15%;
+          left: -8%;
+        
+      }
+      .three>.three-top>.three-top4{
+          height: 100px;
+          width: 100px;
+         
+          position: absolute;
+          bottom: 0;
+          right: -5.5%;
+      }
+      .three>.three-bottom{
+          background-color: black;
+          height: 50%;
+      
+          position: relative;
+      }
+      .three>.three-bottom>.three-bottom-heading{
+          border: 2px solid black;
+          padding: 30px;
+         
+      }
+      .three .three-bottom-heading>h1{
+          text-align: center;
+          font-size: 50px;
+          font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+          color:orangered;
+      }
+      .three .three-bottom-heading>p{
+          text-align: center;
+          font-size: 30px;
+          font-weight: 130;
+          
+          color:orangered;
+      }
+      .three-bottom .three-bottom-body{
+          /* border: 2px solid blue; */
+          position: absolute;
+          width: 100%;
+          bottom: 20px;
+          left: 10%;
+          /* background-color: aqua; */
+      }
+      .three-bottom .three-bottom-body>h2{
+      color: white;
+      /* margin: 5px auto; */
+      /* background-color: aqua; */
+      width: 70%;
+      text-align: start;
+      position: relative;
+      margin-left: 12rem;
+      }
+      .three-bottom .three-bottom-body>h2::before{
+          content: '';
+          background-color: orangered;
+          height: 50%;
+          width: 4%;
+          border-radius: 50%;
+          position: absolute;
+          top: 30%;
+          left: -3rem;
+        
+      }
+      /* horizonal line */
+   
+      
+         /* third/ */
+  
+         /* footer */
+         /* footer section */
+  
+  
+  .fifth{
+      /* border: 2px solid black; */
+      height: 120vh;
+      padding: 20px;
+  
+      position: relative;
+  
+      background-image: url('https://www.shutterstock.com/shutterstock/photos/501125683/display_1500/stock-photo-stylish-office-table-desk-workspace-with-laptop-diary-succulent-on-white-background-flat-lay-501125683.jpg');
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+  }
+  .fifth>.fifth-heading{
+      /* border: 2px solid black; */
+  }
+  .fifth>.fifth-heading>h1{
+      font-size: 80px;
+      color: black;
+      text-align: center;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  .fifth>.fifth-content{
+      /* border: 2px solid green; */
+      line-height: 40px;
+  }
+  .fifth>.fifth-content>p{
+  font-size: 40px;
+  color: black;
+  font-weight: 900;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+  }
+  .fifth>.fifth-content>h2{
+      background-color: black;
+      text-align: center;
+      padding: 5px;
+      color: white;
+      width: 60%;
+      margin: 25px auto;
+      position: relative;
+      z-index: 10;
+  }
+  .fifth>.fifth-content>h2::before{
+      content: '';
+      background-color: transparent;
+      border: 6px solid black;
+      height: 100%;
+      width: 90%;
+  
+      position: absolute;
+      top: 25%;
+      left: 4%;
+  
+      z-index: -1;
+  
+  
+  }
+  .fifth>.fifth-content>h3{
+      font-size: 35px;
+      font-weight: 900;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     text-align: center;
+  }
+  .fifth>.fifth-footer-content{
+  /* border: 2px solid black; */
+  width: 90%;
+  position: absolute;
+  bottom: 15%;
+  left: 5%;
+  }
+  
+  .fifth>.fifth-footer-content>.top{
+      /* background-color: aqua; */
+      display: flex;
+      justify-content:start;
+      width: 100%;
+     margin: 0 auto;
+  
+  }
+  .fifth>.fifth-footer-content>.top h2{
+      /* border: 2px solid black; */
+      text-align: center;
+     position: relative;
+     width: 120%;
+     color:black;
+     font-size: 20px;
+  }
+  .fifth>.fifth-footer-content>.top h2:before{
+      content: "";
+      background-color: rgb(10, 10, 10);
+      height: 70%;
+      width: 8%;
+      position: absolute;
+      top: 5%;
+      left: -2%;
+      border-radius: 50%;
+  }
+  
+   
+  
+  .fifth>.fifth-footer-content>.bottom{
+      /* background-color: aqua; */
+      display: flex;
+      justify-content: center;
+       /* background-color: wheat; */
+       margin: 5px 0 !important;
+  }
+  .fifth>.fifth-footer-content>.bottom h2{
+      /* border: 2px solid black; */
+      text-align: center;
+     position: relative;
+     width: 50%;
+     color: rgb(10, 10, 10);
+     font-size: 20px;
+  }
+  .fifth>.fifth-footer-content>.bottom h2:before{
+      content: "";
+      background-color: rgb(10, 10, 10);
+      height: 70%;
+      width: 6%;
+      position: absolute;
+      top: 15%;
+      left: -3%;
+      border-radius: 50%;
+  }
+}
+         /* footer */
+  
+/* -------------------------------------- */
+  
+  /* 784px to 885px */
+
+  @media (min-width:784px) and (max-width:885px){
+    /* first */
+
+    .para{
+        height: auto;
+        /* border: 3px solid rgb(123, 255, 0); */
+        padding-left: 20px;
+        width: 60%;
+        position: absolute;
+        top: 35%;
+        left: 14rem;
+      
+    }
+    .para>.fs-1{
+      font-size: 30px;
+      /* border: 4px solid gold; */
+    
+    }
+    .para >p{
+        position: relative;
+      /* border: 4px solid gold; */
+       left: 3px;
+    }
+   
+    .main>.navmenu{
+      /* border: 2px solid aqua; */
+      width: 60%;
+      left: 10rem;
+    
+    }
+    .main>.navmenu>ul{
+      /* border: 2px solid lime; */
+      width: 100%;
+    }
+    .main>.navmenu>ul>li{
+      /* border: 2px solid red; */
+      font-size: 18px;
+    }
+
+    /* first */
+    /* second */
+    .funds{
+        /* margin: 5px; */
+        /* border: 2px solid blue; */
+        height: 190vh;
+        width: 100%;
+    
+        background-image: linear-gradient(to top,rgb(0, 0, 0,1),rgba(22, 20, 20, 0.2)),
+        url('https://img.freepik.com/free-photo/billie-dollar-money-background_1150-749.jpg?t=st=1713542968~exp=1713546568~hmac=ed8202506c0bd89b1bff38d693ecaa2d38c804b47040a9517fc2b0da60dad6dd&w=996');
+        background-repeat: no-repeat;
+        background-position: top;
+        background-size: 100% 100%;
+      
+    
+    }
+    .funds>.heading{
+        /* border: 2px solid aqua; */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 13px;
+        position: relative;
+        top: 150px;
+    }
+    .funds>.heading>h1{
+        /* border: 3px solid purple; */
+        font-size: 130px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        background-color: gold;
+        padding: 0px 20px;
+        margin-top: 110px;
+      
+    }
+    .funds>.heading>.right-heading{
+      /* border: 3px solid rgb(201, 235, 8); */
+      margin-top: 100px;
+      
+        color: gold;
+        font-size: 15px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .arrow>h1{
+      color: gold;
+      font-size: 25px;
+      font-family: 'Times New Roman', Times, serif;
+      border: 2px solid gold;
+      box-sizing: content-box;
+      width: fit-content;
+      text-align: center;
+      margin-left: 5rem;
+      position: relative;
+      left: 10%;
+      margin-top: 170px;
+    /* padding: 3px; */
+      
+    } 
+    
+    .arrow>h1>i{
+      /* border: 2px solid orange; */
+      padding: 10px;
+      position: relative;
+      color: black;
+      background-color: gold;
+    }
+    .funds-bottom{
+    
+      color: white;
+      width: 80%;
+       height: 22%;
+
+      /* border-left: 3px solid gold; */
+      /* border: 2px solid red; */
+      font-size: 27px;
+    line-height: 5px;
+    position:relative;
+    left: 10%;
+    margin-top: 18rem;
+    color: white;
+    margin-left: 3rem;
+    }
+  
+    .funds-bottom>.funds-bottom-text>h1{
+    /* border: 2px solid aqua; */
+    /* border-left: 4px solid gold;   */
+    height: 15rem;
+    margin-left: 1rem;
+    padding-left: 20px;
+    text-align: start;
+    }
+    
+     /*-------------------- second-------------------------*/
+     /*---------------- third/--------------------- */
+   
+    .three{
+     
+        /* border: 2px solid blue; */
+        margin: 5px;
+    
+        height: 180vh;
+        width: 100%;
+        /* margin-bottom: 100px; */
+    
+        overflow: hidden;
+    
+    }
+    
+    
+    
+    .three>.three-top{
+        /* border: 2px solid black; */
+        height: 50%;
+    
+        position: relative;
+    }
+    .three>.three-top>.three-top1{
+        background-image: url('https://img.freepik.com/free-photo/home-room-design-with-copy-space_23-2148786463.jpg?t=st=1713609443~exp=1713613043~hmac=d27526c8956dab48ded2e6234e83f6577641b076278057592ad98e8bfbb0a70c&w=1380');
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        background-position: center;
+        height: 100%;
+        width: 100%;
+    
+    }
+    .three-top-circle{
+        background-color: orangered;
+        border-radius: 50%;
+    }
+    .three>.three-top>.three-top2{
+        height: 200px;
+        width: 200px;
+        position: absolute;
+        top: -13%;
+        left: -7%;
+       
+    }
+    .three>.three-top>.three-top3{
+        height: 150px;
+        width: 150px;
+        
+        z-index: 1000;
+    
+        position: absolute;
+        bottom: -15%;
+        left: -10%;
+      
+    }
+    .three>.three-top>.three-top4{
+        height: 100px;
+        width: 100px;
+       
+        position: absolute;
+        bottom: 0;
+        right: -5.5%;
+    }
+    .three>.three-bottom{
+        background-color: black;
+        height: 50%;
+    
+        position: relative;
+    }
+    .three>.three-bottom>.three-bottom-heading{
+        border: 2px solid black;
+        padding: 30px;
+       
+    }
+    .three .three-bottom-heading>h1{
+        text-align: center;
+        font-size: 60px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color:orangered;
+    }
+    .three .three-bottom-heading>p{
+        text-align: center;
+        font-size: 30px;
+        font-weight: 110;
+        
+        color:orangered;
+    }
+    .three-bottom .three-bottom-body{
+        /* border: 2px solid blue; */
+        position: absolute;
+        width: 100%;
+        bottom: 20px;
+        left: 13%;
+        /* background-color: aqua; */
+    }
+    .three-bottom .three-bottom-body>h2{
+    color: white;
+    /* margin: 5px auto; */
+    /* background-color: aqua; */
+    width: 70%;
+    text-align: start;
+    position: relative;
+    margin-left: 8rem;
+    }
+    .three-bottom .three-bottom-body>h2::before{
+        content: '';
+        background-color: orangered;
+        height: 50%;
+        width: 4%;
+        border-radius: 50%;
+        position: absolute;
+        top: 30%;
+        left: -3rem;
+      
+    }
+    /* horizonal line */
+ 
+    
+       /* third/ */
+
+       /* footer */
+       /* footer section */
+
+
+.fifth{
+    /* border: 2px solid black; */
+    height: 120vh;
+    padding: 20px;
+
+    position: relative;
+
+    background-image: url('https://www.shutterstock.com/shutterstock/photos/501125683/display_1500/stock-photo-stylish-office-table-desk-workspace-with-laptop-diary-succulent-on-white-background-flat-lay-501125683.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.fifth>.fifth-heading{
+    /* border: 2px solid black; */
+}
+.fifth>.fifth-heading>h1{
+    font-size: 80px;
+    color: black;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.fifth>.fifth-content{
+    /* border: 2px solid green; */
+    line-height: 40px;
+}
+.fifth>.fifth-content>p{
+font-size: 40px;
+color: black;
+font-weight: 900;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;
+}
+.fifth>.fifth-content>h2{
+    background-color: black;
+    text-align: center;
+    padding: 5px;
+    color: white;
+    width: 60%;
+    margin: 25px auto;
+    position: relative;
+    z-index: 10;
+}
+.fifth>.fifth-content>h2::before{
+    content: '';
+    background-color: transparent;
+    border: 6px solid black;
+    height: 100%;
+    width: 90%;
+
+    position: absolute;
+    top: 25%;
+    left: 4%;
+
+    z-index: -1;
+
+
+}
+.fifth>.fifth-content>h3{
+    font-size: 30px;
+    font-weight: 900;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   text-align: center;
+}
+.fifth>.fifth-footer-content{
+/* border: 2px solid black; */
+width: 90%;
+position: absolute;
+bottom: 15%;
+left: 5%;
+}
+
+.fifth>.fifth-footer-content>.top{
+    /* background-color: aqua; */
+    display: flex;
+    justify-content:start;
+    width: 100%;
+   margin: 0 auto;
+
+}
+.fifth>.fifth-footer-content>.top h2{
+    /* border: 2px solid black; */
+    text-align: center;
+   position: relative;
+   width: 120%;
+   color:black;
+   font-size: 22px;
+}
+.fifth>.fifth-footer-content>.top h2:before{
+    content: "";
+    background-color: rgb(10, 10, 10);
+    height: 70%;
+    width: 8%;
+    position: absolute;
+    top: 5%;
+    left: -2%;
+    border-radius: 50%;
+}
+
+ 
+
+.fifth>.fifth-footer-content>.bottom{
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: center;
+     /* background-color: wheat; */
+     margin: 5px 0 !important;
+}
+.fifth>.fifth-footer-content>.bottom h2{
+    /* border: 2px solid black; */
+    text-align: center;
+   position: relative;
+   width: 50%;
+   color: rgb(10, 10, 10);
+   font-size: 22px;
+}
+.fifth>.fifth-footer-content>.bottom h2:before{
+    content: "";
+    background-color: rgb(10, 10, 10);
+    height: 70%;
+    width: 6%;
+    position: absolute;
+    top: 15%;
+    left: -3%;
+    border-radius: 50%;
+}
+       /* footer */
+}
+
+/* -------------------------------------- */
+  
+  /* 886px to 987px */
+
+  @media (min-width:886px) and (max-width:987px){
+    /* first */
+
+    .para{
+        height: auto;
+        /* border: 3px solid rgb(123, 255, 0); */
+        padding-left: 20px;
+        width: 60%;
+        position: absolute;
+        top: 35%;
+        left: 18rem;
+      
+    }
+    .para>.fs-1{
+      font-size: 35px;
+      /* border: 4px solid gold; */
+    
+    }
+    .para >p{
+        position: relative;
+      /* border: 4px solid gold; */
+       left: 3px;
+    }
+   
+    .main>.navmenu{
+      /* border: 2px solid aqua; */
+      width: 60%;
+      left: 15rem;
+    
+    }
+    .main>.navmenu>ul{
+      /* border: 2px solid lime; */
+      width: 100%;
+    }
+    .main>.navmenu>ul>li{
+      /* border: 2px solid red; */
+      font-size: 20px;
+    }
+
+    /* first */
+    /* second */
+    .funds{
+        /* margin: 5px; */
+        /* border: 2px solid blue; */
+        height: 180vh;
+        width: 100%;
+    
+        background-image: linear-gradient(to top,rgb(0, 0, 0,1),rgba(22, 20, 20, 0.2)),
+        url('https://img.freepik.com/free-photo/billie-dollar-money-background_1150-749.jpg?t=st=1713542968~exp=1713546568~hmac=ed8202506c0bd89b1bff38d693ecaa2d38c804b47040a9517fc2b0da60dad6dd&w=996');
+        background-repeat: no-repeat;
+        background-position: top;
+        background-size: 100% 100%;
+      
+    
+    }
+    .funds>.heading{
+        /* border: 2px solid aqua; */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 13px;
+        position: relative;
+        top: 150px;
+    }
+    .funds>.heading>h1{
+        /* border: 3px solid purple; */
+        font-size: 100px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        background-color: gold;
+        padding: 0px 20px;
+        margin-top: 120px;
+      
+    }
+    .funds>.heading>.right-heading{
+      /* border: 3px solid rgb(201, 235, 8); */
+      margin-top: 100px;
+      
+        color: gold;
+        font-size: 10px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .arrow>h1{
+      color: gold;
+      font-size: 20px;
+      font-family: 'Times New Roman', Times, serif;
+      border: 2px solid gold;
+      box-sizing: content-box;
+      width: fit-content;
+      text-align: center;
+      margin-left: 9rem;
+      position: relative;
+      left: 10%;
+      margin-top: 170px;
+    /* padding: 3px; */
+      
+    } 
+    
+    .arrow>h1>i{
+      /* border: 2px solid orange; */
+      padding: 10px;
+      position: relative;
+      color: black;
+      background-color: gold;
+    }
+    .funds-bottom{
+    
+      color: white;
+      width: 80%;
+       height: 22%;
+
+      /* border-left: 3px solid gold; */
+      /* border: 2px solid red; */
+      font-size: 25px;
+    line-height: 5px;
+    position:relative;
+    left: 10%;
+    margin-top: 18rem;
+    color: white;
+    margin-left: 3rem;
+    }
+  
+    .funds-bottom>.funds-bottom-text>h1{
+    /* border: 2px solid aqua; */
+    /* border-left: 4px solid gold;   */
+    height: 15rem;
+    margin-left: 3rem;
+    padding-left: 20px;
+    text-align: start;
+    }
+    
+     /*-------------------- second-------------------------*/
+     /*---------------- third/--------------------- */
+   
+    .three{
+     
+        /* border: 2px solid blue; */
+        margin: 5px;
+    
+        height: 180vh;
+        width: 100%;
+        /* margin-bottom: 100px; */
+    
+        overflow: hidden;
+    
+    }
+    
+    
+    
+    .three>.three-top{
+        /* border: 2px solid black; */
+        height: 50%;
+    
+        position: relative;
+    }
+    .three>.three-top>.three-top1{
+        background-image: url('https://img.freepik.com/free-photo/home-room-design-with-copy-space_23-2148786463.jpg?t=st=1713609443~exp=1713613043~hmac=d27526c8956dab48ded2e6234e83f6577641b076278057592ad98e8bfbb0a70c&w=1380');
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        background-position: center;
+        height: 100%;
+        width: 100%;
+    
+    }
+    .three-top-circle{
+        background-color: orangered;
+        border-radius: 50%;
+    }
+    .three>.three-top>.three-top2{
+        height: 200px;
+        width: 200px;
+        position: absolute;
+        top: -13%;
+        left: -7%;
+       
+    }
+    .three>.three-top>.three-top3{
+        height: 150px;
+        width: 150px;
+        
+        z-index: 1000;
+    
+        position: absolute;
+        bottom: -15%;
+        left: -10%;
+      
+    }
+    .three>.three-top>.three-top4{
+        height: 100px;
+        width: 100px;
+       
+        position: absolute;
+        bottom: 0;
+        right: -5.5%;
+    }
+    .three>.three-bottom{
+        background-color: black;
+        height: 50%;
+    
+        position: relative;
+    }
+    .three>.three-bottom>.three-bottom-heading{
+        border: 2px solid black;
+        padding: 30px;
+       
+    }
+    .three .three-bottom-heading>h1{
+        text-align: center;
+        font-size: 70px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color:orangered;
+    }
+    .three .three-bottom-heading>p{
+        text-align: center;
+        font-size: 40px;
+        font-weight: 100;
+        
+        color:orangered;
+    }
+    .three-bottom .three-bottom-body{
+        /* border: 2px solid blue; */
+        position: absolute;
+        width: 100%;
+        bottom: 20px;
+        left: 18%;
+        /* background-color: aqua; */
+    }
+    .three-bottom .three-bottom-body>h2{
+    color: white;
+    /* margin: 5px auto; */
+    /* background-color: aqua; */
+    width: 70%;
+    text-align: start;
+    position: relative;
+    margin-left: 8rem;
+    }
+    .three-bottom .three-bottom-body>h2::before{
+        content: '';
+        background-color: orangered;
+        height: 50%;
+        width: 4%;
+        border-radius: 50%;
+        position: absolute;
+        top: 30%;
+        left: -3rem;
+      
+    }
+    /* horizonal line */
+ 
+    
+       /* third/ */
+
+       /* footer */
+       /* footer section */
+
+
+.fifth{
+    /* border: 2px solid black; */
+    height: 130vh;
+    padding: 20px;
+
+    position: relative;
+
+    background-image: url('https://www.shutterstock.com/shutterstock/photos/501125683/display_1500/stock-photo-stylish-office-table-desk-workspace-with-laptop-diary-succulent-on-white-background-flat-lay-501125683.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.fifth>.fifth-heading{
+    /* border: 2px solid black; */
+}
+.fifth>.fifth-heading>h1{
+    font-size: 90px;
+    color: black;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.fifth>.fifth-content{
+    /* border: 2px solid green; */
+    line-height: 40px;
+}
+.fifth>.fifth-content>p{
+font-size: 50px;
+color: black;
+font-weight: 900;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;
+}
+.fifth>.fifth-content>h2{
+    background-color: black;
+    text-align: center;
+    padding: 5px;
+    color: white;
+    width: 60%;
+    margin: 25px auto;
+    position: relative;
+    z-index: 10;
+}
+.fifth>.fifth-content>h2::before{
+    content: '';
+    background-color: transparent;
+    border: 6px solid black;
+    height: 100%;
+    width: 90%;
+
+    position: absolute;
+    top: 25%;
+    left: 4%;
+
+    z-index: -1;
+
+
+}
+.fifth>.fifth-content>h3{
+    font-size: 30px;
+    font-weight: 900;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   text-align: center;
+}
+.fifth>.fifth-footer-content{
+/* border: 2px solid black; */
+width: 90%;
+position: absolute;
+bottom: 15%;
+left: 5%;
+}
+
+.fifth>.fifth-footer-content>.top{
+    /* background-color: aqua; */
+    display: flex;
+    justify-content:start;
+    width: 100%;
+   margin: 0 auto;
+
+}
+.fifth>.fifth-footer-content>.top h2{
+    /* border: 2px solid black; */
+    text-align: center;
+   position: relative;
+   width: 120%;
+   color:black;
+   font-size: 25px;
+}
+.fifth>.fifth-footer-content>.top h2:before{
+    content: "";
+    background-color: rgb(10, 10, 10);
+    height: 60%;
+    width: 5%;
+    position: absolute;
+    top: 5%;
+    left: -2%;
+    border-radius: 50%;
+}
+
+ 
+
+.fifth>.fifth-footer-content>.bottom{
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: center;
+     /* background-color: wheat; */
+     margin: 5px 0 !important;
+}
+.fifth>.fifth-footer-content>.bottom h2{
+    /* border: 2px solid black; */
+    text-align: center;
+   position: relative;
+   width: 50%;
+   color: rgb(10, 10, 10);
+   font-size: 25px;
+}
+.fifth>.fifth-footer-content>.bottom h2:before{
+    content: "";
+    background-color: rgb(10, 10, 10);
+    height: 50%;
+    width: 4%;
+    position: absolute;
+    top: 15%;
+    left: -3%;
+    border-radius: 50%;
+}
+       /* footer */
+}
+
+
+/* -------------------------------------- */
+  
+  /* 988px to 1087px */
+
+  @media (min-width:988px) and (max-width:1087px){
+    /* first */
+
+    .para{
+        height: auto;
+        /* border: 3px solid rgb(123, 255, 0); */
+        padding-left: 20px;
+        width: 60%;
+        position: absolute;
+        top: 35%;
+        left: 20rem;
+      
+    }
+    .para>.fs-1{
+      font-size: 35px;
+      /* border: 4px solid gold; */
+    
+    }
+    .para >p{
+        position: relative;
+      /* border: 4px solid gold; */
+       left: 3px;
+    }
+   
+    .main>.navmenu{
+      /* border: 2px solid aqua; */
+      width: 60%;
+      left: 17rem;
+    
+    }
+    .main>.navmenu>ul{
+      /* border: 2px solid lime; */
+      width: 100%;
+    }
+    .main>.navmenu>ul>li{
+      /* border: 2px solid red; */
+      font-size: 23px;
+    }
+
+    /* first */
+    /* second */
+    .funds{
+        /* margin: 5px; */
+        /* border: 2px solid blue; */
+        height: 200vh;
+        width: 100%;
+    
+        background-image: linear-gradient(to top,rgb(0, 0, 0,1),rgba(22, 20, 20, 0.2)),
+        url('https://img.freepik.com/free-photo/billie-dollar-money-background_1150-749.jpg?t=st=1713542968~exp=1713546568~hmac=ed8202506c0bd89b1bff38d693ecaa2d38c804b47040a9517fc2b0da60dad6dd&w=996');
+        background-repeat: no-repeat;
+        background-position: top;
+        background-size: 100% 100%;
+      
+    
+    }
+    .funds>.heading{
+        /* border: 2px solid aqua; */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 13px;
+        position: relative;
+        top: 180px;
+    }
+    .funds>.heading>h1{
+        /* border: 3px solid purple; */
+        font-size: 100px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        background-color: gold;
+        padding: 0px 20px;
+        margin-top: 130px;
+      
+    }
+    .funds>.heading>.right-heading{
+      /* border: 3px solid rgb(201, 235, 8); */
+      margin-top: 130px;
+      
+        color: gold;
+        font-size: 20px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .arrow>h1{
+      color: gold;
+      font-size: 25px;
+      font-family: 'Times New Roman', Times, serif;
+      border: 2px solid gold;
+      box-sizing: content-box;
+      width: fit-content;
+      text-align: center;
+      margin-left: 3rem;
+      position: relative;
+      left: 20%;
+      margin-top: 170px;
+    /* padding: 3px; */
+      
+    } 
+    
+    .arrow>h1>i{
+      /* border: 2px solid orange; */
+      padding: 10px;
+      position: relative;
+      color: black;
+      background-color: gold;
+    }
+    .funds-bottom{
+    
+      color: white;
+      width: 80%;
+       height: 22%;
+
+      /* border-left: 3px solid gold; */
+      /* border: 2px solid red; */
+      font-size: 25px;
+    line-height: 5px;
+    position:relative;
+    left: 10%;
+    margin-top: 18rem;
+    color: white;
+    margin-left: 3rem;
+    }
+  
+    .funds-bottom>.funds-bottom-text>h1{
+    /* border: 2px solid aqua; */
+    /* border-left: 4px solid gold;   */
+    height: 15rem;
+    margin-left: 1rem;
+    padding-left: 20px;
+    text-align: start;
+    }
+    
+     /*-------------------- second-------------------------*/
+     /*---------------- third/--------------------- */
+   
+    .three{
+     
+        /* border: 2px solid blue; */
+        margin: 5px;
+    
+        height: 180vh;
+        width: 100%;
+        /* margin-bottom: 100px; */
+    
+        overflow: hidden;
+    
+    }
+    
+    
+    
+    .three>.three-top{
+        /* border: 2px solid black; */
+        height: 50%;
+    
+        position: relative;
+    }
+    .three>.three-top>.three-top1{
+        background-image: url('https://img.freepik.com/free-photo/home-room-design-with-copy-space_23-2148786463.jpg?t=st=1713609443~exp=1713613043~hmac=d27526c8956dab48ded2e6234e83f6577641b076278057592ad98e8bfbb0a70c&w=1380');
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        background-position: center;
+        height: 100%;
+        width: 100%;
+    
+    }
+    .three-top-circle{
+        background-color: orangered;
+        border-radius: 50%;
+    }
+    .three>.three-top>.three-top2{
+        height: 200px;
+        width: 200px;
+        position: absolute;
+        top: -12%;
+        left: -5%;
+    }
+    .three>.three-top>.three-top3{
+        height: 150px;
+        width: 150px;
+        
+        z-index: 1000;
+    
+        position: absolute;
+        bottom: -13%;
+        left: -6%;
+      
+    }
+    .three>.three-top>.three-top4{
+        height: 100px;
+        width: 100px;
+       
+        position: absolute;
+        bottom: 0;
+        right: -4%;
+    }
+    .three>.three-bottom{
+        background-color: black;
+        height: 50%;
+    
+        position: relative;
+    }
+    .three>.three-bottom>.three-bottom-heading{
+        border: 2px solid black;
+        padding: 30px;
+       
+    }
+    .three .three-bottom-heading>h1{
+        text-align: center;
+        font-size: 80px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color:orangered;
+    }
+    .three .three-bottom-heading>p{
+        text-align: center;
+        font-size: 40px;
+        font-weight: 100;
+        
+        color:orangered;
+    }
+    .three-bottom .three-bottom-body{
+        /* border: 2px solid blue; */
+        position: absolute;
+        width: 100%;
+        bottom: 20px;
+        left: 25%;
+        /* background-color: aqua; */
+    }
+    .three-bottom .three-bottom-body>h2{
+    color: white;
+    /* margin: 5px auto; */
+    /* background-color: aqua; */
+    width: 70%;
+    text-align: start;
+    position: relative;
+    margin-left: 8rem;
+    }
+    .three-bottom .three-bottom-body>h2::before{
+        content: '';
+        background-color: orangered;
+        height: 50%;
+        width: 4%;
+        border-radius: 50%;
+        position: absolute;
+        top: 30%;
+        left: -3rem;
+      
+    }
+    /* horizonal line */
+ 
+    
+       /* third/ */
+
+       /* footer */
+       /* footer section */
+
+
+.fifth{
+    /* border: 2px solid black; */
+    height: 120vh;
+    padding: 20px;
+
+    position: relative;
+
+    background-image: url('https://www.shutterstock.com/shutterstock/photos/501125683/display_1500/stock-photo-stylish-office-table-desk-workspace-with-laptop-diary-succulent-on-white-background-flat-lay-501125683.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.fifth>.fifth-heading{
+    /* border: 2px solid black; */
+}
+.fifth>.fifth-heading>h1{
+    font-size: 100px;
+    color: black;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.fifth>.fifth-content{
+    /* border: 2px solid green; */
+    line-height: 40px;
+}
+.fifth>.fifth-content>p{
+font-size: 45px;
+color: black;
+font-weight: 900;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;
+}
+.fifth>.fifth-content>h2{
+    background-color: black;
+    text-align: center;
+    padding: 5px;
+    color: white;
+    width: 60%;
+    margin: 25px auto;
+    position: relative;
+    z-index: 10;
+}
+.fifth>.fifth-content>h2::before{
+    content: '';
+    background-color: transparent;
+    border: 6px solid black;
+    height: 100%;
+    width: 90%;
+
+    position: absolute;
+    top: 25%;
+    left: 4%;
+
+    z-index: -1;
+
+
+}
+.fifth>.fifth-content>h3{
+    font-size: 40px;
+    font-weight: 900;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   text-align: center;
+}
+.fifth>.fifth-footer-content{
+/* border: 2px solid black; */
+width: 90%;
+position: absolute;
+bottom: 15%;
+left: 5%;
+}
+
+.fifth>.fifth-footer-content>.top{
+    /* background-color: aqua; */
+    display: flex;
+    justify-content:start;
+    width: 100%;
+   margin: 0 auto;
+
+}
+.fifth>.fifth-footer-content>.top h2{
+    /* border: 2px solid black; */
+    text-align: center;
+   position: relative;
+   width: 120%;
+   color:black;
+   font-size: 27px;
+}
+.fifth>.fifth-footer-content>.top h2:before{
+    content: "";
+    background-color: rgb(10, 10, 10);
+    height: 70%;
+    width: 8%;
+    position: absolute;
+    top: 5%;
+    left: -2%;
+    border-radius: 50%;
+}
+
+ 
+
+.fifth>.fifth-footer-content>.bottom{
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: center;
+     /* background-color: wheat; */
+     margin: 5px 0 !important;
+}
+.fifth>.fifth-footer-content>.bottom h2{
+    /* border: 2px solid black; */
+    text-align: center;
+   position: relative;
+   width: 50%;
+   color: rgb(10, 10, 10);
+   font-size: 27px;
+}
+.fifth>.fifth-footer-content>.bottom h2:before{
+    content: "";
+    background-color: rgb(10, 10, 10);
+    height: 70%;
+    width: 6%;
+    position: absolute;
+    top: 15%;
+    left: -3%;
+    border-radius: 50%;
+}
+       /* footer */
+}
+/* -------------------------------------- */
+  
+  /* 1088px to 1190 px */
+
+  @media (min-width:1088px) and (max-width:1190px){
+    /* first */
+
+    .para{
+        height: auto;
+        /* border: 3px solid rgb(123, 255, 0); */
+        padding-left: 20px;
+        width: 60%;
+        position: absolute;
+        top: 35%;
+        left: 22rem;
+      
+    }
+    .para>.fs-1{
+      font-size: 40px;
+      /* border: 4px solid gold; */
+    
+    }
+    .para >p{
+        position: relative;
+      /* border: 4px solid gold; */
+       left: 3px;
+    }
+   
+    .main>.navmenu{
+      /* border: 2px solid aqua; */
+      width: 60%;
+      left: 18rem;
+    
+    }
+    .main>.navmenu>ul{
+      /* border: 2px solid lime; */
+      width: 100%;
+    }
+    .main>.navmenu>ul>li{
+      /* border: 2px solid red; */
+      font-size: 25px;
+    }
+
+    /* first */
+    /* second */
+    .funds{
+        /* margin: 5px; */
+        /* border: 2px solid blue; */
+        height: 180vh;
+        width: 100%;
+    
+        background-image: linear-gradient(to top,rgb(0, 0, 0,1),rgba(22, 20, 20, 0.2)),
+        url('https://img.freepik.com/free-photo/billie-dollar-money-background_1150-749.jpg?t=st=1713542968~exp=1713546568~hmac=ed8202506c0bd89b1bff38d693ecaa2d38c804b47040a9517fc2b0da60dad6dd&w=996');
+        background-repeat: no-repeat;
+        background-position: top;
+        background-size: 100% 100%;
+      
+    
+    }
+    .funds>.heading{
+        /* border: 2px solid aqua; */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 13px;
+        position: relative;
+        top: 170px;
+    }
+    .funds>.heading>h1{
+        /* border: 3px solid purple; */
+        font-size: 100px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        background-color: gold;
+        padding: 0px 20px;
+        margin-top: 100px;
+      
+    }
+    .funds>.heading>.right-heading{
+      /* border: 3px solid rgb(201, 235, 8); */
+      margin-top: 100px;
+      
+        color: gold;
+        font-size: 40px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .arrow>h1{
+      color: gold;
+      font-size: 40px;
+      font-family: 'Times New Roman', Times, serif;
+      border: 2px solid gold;
+      box-sizing: content-box;
+      width: fit-content;
+      text-align: center;
+      margin-left: 5rem;
+      position: relative;
+      left: 10%;
+      margin-top: 170px;
+    padding: 3px;
+      
+    } 
+    
+    .arrow>h1>i{
+      /* border: 2px solid orange; */
+      padding: 10px;
+      position: relative;
+      color: black;
+      background-color: gold;
+    }
+    .funds-bottom{
+    
+      color: white;
+      width: 80%;
+       height: 22%;
+
+      /* border-left: 3px solid gold; */
+      /* border: 2px solid red; */
+      font-size: 25px;
+    line-height: 5px;
+    position:relative;
+    left: 10%;
+    margin-top: 18rem;
+    color: white;
+    margin-left: 5rem;
+    }
+  
+    .funds-bottom>.funds-bottom-text>h1{
+    /* border: 2px solid aqua; */
+    /* border-left: 4px solid gold;   */
+    height: 15rem;
+    margin-left: 1rem;
+    padding-left: 20px;
+    text-align: start;
+    }
+    
+     /*-------------------- second-------------------------*/
+     /*---------------- third/--------------------- */
+   
+    .three{
+     
+        /* border: 2px solid blue; */
+        margin: 5px;
+    
+        height: 180vh;
+        width: 100%;
+        /* margin-bottom: 100px; */
+    
+        overflow: hidden;
+    
+    }
+    
+    
+    
+    .three>.three-top{
+        /* border: 2px solid black; */
+        height: 50%;
+    
+        position: relative;
+    }
+    .three>.three-top>.three-top1{
+        background-image: url('https://img.freepik.com/free-photo/home-room-design-with-copy-space_23-2148786463.jpg?t=st=1713609443~exp=1713613043~hmac=d27526c8956dab48ded2e6234e83f6577641b076278057592ad98e8bfbb0a70c&w=1380');
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        background-position: center;
+        height: 100%;
+        width: 100%;
+    
+    }
+    .three-top-circle{
+        background-color: orangered;
+        border-radius: 50%;
+    }
+    .three>.three-top>.three-top2{
+        height: 200px;
+        width: 200px;
+        position: absolute;
+        top: -12%;
+        left: -5%;
+       
+    }
+    .three>.three-top>.three-top3{
+        height: 150px;
+        width: 150px;
+        
+        z-index: 1000;
+    
+        position: absolute;
+        bottom: -14%;
+        left: -7%;
+      
+    }
+    .three>.three-top>.three-top4{
+        height: 100px;
+        width: 100px;
+       
+        position: absolute;
+        bottom: 0;
+        right: -3%;
+    }
+    .three>.three-bottom{
+        background-color: black;
+        height: 50%;
+    
+        position: relative;
+    }
+    .three>.three-bottom>.three-bottom-heading{
+        border: 2px solid black;
+        padding: 30px;
+       
+    }
+    .three .three-bottom-heading>h1{
+        text-align: center;
+        font-size: 90px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color:orangered;
+    }
+    .three .three-bottom-heading>p{
+        text-align: center;
+        font-size: 45px;
+        font-weight: 100;
+        
+        color:orangered;
+    }
+    .three-bottom .three-bottom-body{
+        /* border: 2px solid blue; */
+        position: absolute;
+        width: 100%;
+        bottom: 20px;
+        left: 25%;
+        /* background-color: aqua; */
+    }
+    .three-bottom .three-bottom-body>h2{
+    color: white;
+    /* margin: 5px auto; */
+    /* background-color: aqua; */
+    width: 70%;
+    text-align: start;
+    position: relative;
+    margin-left: 8rem;
+    }
+    .three-bottom .three-bottom-body>h2::before{
+        content: '';
+        background-color: orangered;
+        height: 50%;
+        width: 4%;
+        border-radius: 50%;
+        position: absolute;
+        top: 30%;
+        left: -3rem;
+      
+    }
+    /* horizonal line */
+ 
+    
+       /* third/ */
+
+       /* footer */
+       /* footer section */
+
+
+.fifth{
+    /* border: 2px solid black; */
+    height: 120vh;
+    padding: 20px;
+
+    position: relative;
+
+    background-image: url('https://www.shutterstock.com/shutterstock/photos/501125683/display_1500/stock-photo-stylish-office-table-desk-workspace-with-laptop-diary-succulent-on-white-background-flat-lay-501125683.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.fifth>.fifth-heading{
+    /* border: 2px solid black; */
+}
+.fifth>.fifth-heading>h1{
+    font-size: 85px;
+    color: black;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.fifth>.fifth-content{
+    /* border: 2px solid green; */
+    line-height: 40px;
+}
+.fifth>.fifth-content>p{
+font-size: 49px;
+color: black;
+font-weight: 900;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;
+}
+.fifth>.fifth-content>h2{
+    background-color: black;
+    text-align: center;
+    padding: 5px;
+    color: white;
+    width: 60%;
+    margin: 25px auto;
+    position: relative;
+    z-index: 10;
+}
+.fifth>.fifth-content>h2::before{
+    content: '';
+    background-color: transparent;
+    border: 6px solid black;
+    height: 100%;
+    width: 90%;
+
+    position: absolute;
+    top: 25%;
+    left: 4%;
+
+    z-index: -1;
+
+
+}
+.fifth>.fifth-content>h3{
+    font-size: 40px;
+    font-weight: 900;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   text-align: center;
+}
+.fifth>.fifth-footer-content{
+/* border: 2px solid black; */
+width: 90%;
+position: absolute;
+bottom: 15%;
+left: 5%;
+}
+
+.fifth>.fifth-footer-content>.top{
+    /* background-color: aqua; */
+    display: flex;
+    justify-content:start;
+    width: 100%;
+   margin: 0 auto;
+
+}
+.fifth>.fifth-footer-content>.top h2{
+    /* border: 2px solid black; */
+    text-align: center;
+   position: relative;
+   width: 120%;
+   color:black;
+   font-size: 28px;
+}
+.fifth>.fifth-footer-content>.top h2:before{
+    content: "";
+    background-color: rgb(10, 10, 10);
+    height: 70%;
+    width: 8%;
+    position: absolute;
+    top: 5%;
+    left: -2%;
+    border-radius: 50%;
+}
+
+ 
+
+.fifth>.fifth-footer-content>.bottom{
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: center;
+     /* background-color: wheat; */
+     margin: 5px 0 !important;
+}
+.fifth>.fifth-footer-content>.bottom h2{
+    /* border: 2px solid black; */
+    text-align: center;
+   position: relative;
+   width: 50%;
+   color: rgb(10, 10, 10);
+   font-size: 28px;
+}
+.fifth>.fifth-footer-content>.bottom h2:before{
+    content: "";
+    background-color: rgb(10, 10, 10);
+    height: 70%;
+    width: 6%;
+    position: absolute;
+    top: 15%;
+    left: -3%;
+    border-radius: 50%;
+}
+       /* footer */
+}
+/* -------------------------------------- */
+  
+  /* 1191 px to 1291px */
+
+  @media (min-width:1191px) and (max-width:1291px){
+    /* first */
+
+    .para{
+        height: auto;
+        /* border: 3px solid rgb(123, 255, 0); */
+        padding-left: 20px;
+        width: 60%;
+        position: absolute;
+        top: 35%;
+        left: 24rem;
+      
+    }
+    .para>.fs-1{
+      font-size: 25px;
+      /* border: 4px solid gold; */
+    
+    }
+    .para >p{
+        position: relative;
+      /* border: 4px solid gold; */
+       left: 3px;
+    }
+   
+    .main>.navmenu{
+      /* border: 2px solid aqua; */
+      width: 60%;
+      left: 19;
+    
+    }
+    .main>.navmenu>ul{
+      /* border: 2px solid lime; */
+      width: 100%;
+    }
+    .main>.navmenu>ul>li{
+      /* border: 2px solid red; */
+      font-size: 25px;
+    }
+
+    /* first */
+    /* second */
+    .funds{
+        /* margin: 5px; */
+        /* border: 2px solid blue; */
+        height: 180vh;
+        width: 100%;
+    
+        background-image: linear-gradient(to top,rgb(0, 0, 0,1),rgba(22, 20, 20, 0.2)),
+        url('https://img.freepik.com/free-photo/billie-dollar-money-background_1150-749.jpg?t=st=1713542968~exp=1713546568~hmac=ed8202506c0bd89b1bff38d693ecaa2d38c804b47040a9517fc2b0da60dad6dd&w=996');
+        background-repeat: no-repeat;
+        background-position: top;
+        background-size: 100% 100%;
+      
+    
+    }
+    .funds>.heading{
+        /* border: 2px solid aqua; */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 13px;
+        position: relative;
+        top: 150px;
+    }
+    .funds>.heading>h1{
+        /* border: 3px solid purple; */
+        font-size: 140px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        background-color: gold;
+        padding: 0px 20px;
+        margin-top: 100px;
+      
+    }
+    .funds>.heading>.right-heading{
+      /* border: 3px solid rgb(201, 235, 8); */
+      margin-top: 100px;
+      
+        color: gold;
+        font-size: 20px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .arrow>h1{
+      color: gold;
+      font-size: 27px;
+      font-family: 'Times New Roman', Times, serif;
+      border: 2px solid gold;
+      box-sizing: content-box;
+      width: fit-content;
+      text-align: center;
+      margin-left: 12rem;
+      position: relative;
+      left: 10%;
+      margin-top: 170px;
+    /* padding: 3px; */
+      
+    } 
+    
+    .arrow>h1>i{
+      /* border: 2px solid orange; */
+      padding: 10px;
+      position: relative;
+      color: black;
+      background-color: gold;
+    }
+    .funds-bottom{
+    
+      color: white;
+      width: 80%;
+       height: 22%;
+
+      /* border-left: 3px solid gold; */
+      /* border: 2px solid red; */
+      font-size: 25px;
+    line-height: 5px;
+    position:relative;
+    left: 10%;
+    margin-top: 18rem;
+    color: white;
+    margin-left: 3rem;
+    }
+  
+    .funds-bottom>.funds-bottom-text>h1{
+    /* border: 2px solid aqua; */
+    /* border-left: 4px solid gold;   */
+    height: 15rem;
+    margin-left: 5rem;
+    padding-left: 20px;
+    text-align: start;
+    }
+    
+     /*-------------------- second-------------------------*/
+     /*---------------- third/--------------------- */
+   
+    .three{
+     
+        /* border: 2px solid blue; */
+        margin: 5px;
+    
+        height: 180vh;
+        width: 100%;
+        /* margin-bottom: 100px; */
+    
+        overflow: hidden;
+    
+    }
+    
+    
+    
+    .three>.three-top{
+        /* border: 2px solid black; */
+        height: 50%;
+    
+        position: relative;
+    }
+    .three>.three-top>.three-top1{
+        background-image: url('https://img.freepik.com/free-photo/home-room-design-with-copy-space_23-2148786463.jpg?t=st=1713609443~exp=1713613043~hmac=d27526c8956dab48ded2e6234e83f6577641b076278057592ad98e8bfbb0a70c&w=1380');
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        background-position: center;
+        height: 100%;
+        width: 100%;
+    
+    }
+    .three-top-circle{
+        background-color: orangered;
+        border-radius: 50%;
+    }
+    .three>.three-top>.three-top2{
+        height: 200px;
+        width: 200px;
+        position: absolute;
+        top: -10%;
+        left: -5%;
+       
+    }
+    .three>.three-top>.three-top3{
+        height: 150px;
+        width: 150px;
+        
+        z-index: 1000;
+        position: absolute;
+    
+        bottom: -15%;
+        left: -6%;
+      
+    }
+    .three>.three-top>.three-top4{
+        height: 100px;
+        width: 100px;
+        position: absolute;
+       
+        bottom: 0;
+        right: -3%;
+    }
+    .three>.three-bottom{
+        background-color: black;
+        height: 50%;
+    
+        position: relative;
+    }
+    .three>.three-bottom>.three-bottom-heading{
+        border: 2px solid black;
+        padding: 30px;
+       
+    }
+    .three .three-bottom-heading>h1{
+        text-align: center;
+        font-size: 110px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color:orangered;
+    }
+    .three .three-bottom-heading>p{
+        text-align: center;
+        font-size: 55px;
+        font-weight: 100;
+        
+        color:orangered;
+    }
+    .three-bottom .three-bottom-body{
+        /* border: 2px solid blue; */
+        position: absolute;
+        width: 100%;
+        bottom: 20px;
+        left: 30%;
+        /* background-color: aqua; */
+    }
+    .three-bottom .three-bottom-body>h2{
+    color: white;
+    /* margin: 5px auto; */
+    /* background-color: aqua; */
+    width: 70%;
+    text-align: start;
+    position: relative;
+    margin-left: 8rem;
+    }
+    .three-bottom .three-bottom-body>h2::before{
+        content: '';
+        background-color: orangered;
+        height: 50%;
+        width: 4%;
+        border-radius: 50%;
+        position: absolute;
+        top: 30%;
+        left: -3rem;
+      
+    }
+    /* horizonal line */
+ 
+    
+       /* third/ */
+
+       /* footer */
+       /* footer section */
+
+
+.fifth{
+    /* border: 2px solid black; */
+    height: 120vh;
+    padding: 20px;
+
+    position: relative;
+
+    background-image: url('https://www.shutterstock.com/shutterstock/photos/501125683/display_1500/stock-photo-stylish-office-table-desk-workspace-with-laptop-diary-succulent-on-white-background-flat-lay-501125683.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.fifth>.fifth-heading{
+    /* border: 2px solid black; */
+}
+.fifth>.fifth-heading>h1{
+    font-size: 100px;
+    color: black;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.fifth>.fifth-content{
+    /* border: 2px solid green; */
+    line-height: 40px;
+}
+.fifth>.fifth-content>p{
+font-size: 50px;
+color: black;
+font-weight: 900;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;
+}
+.fifth>.fifth-content>h2{
+    background-color: black;
+    text-align: center;
+    padding: 5px;
+    color: white;
+    width: 60%;
+    margin: 25px auto;
+    position: relative;
+    z-index: 10;
+}
+.fifth>.fifth-content>h2::before{
+    content: '';
+    background-color: transparent;
+    border: 6px solid black;
+    height: 100%;
+    width: 90%;
+
+    position: absolute;
+    top: 25%;
+    left: 4%;
+
+    z-index: -1;
+
+
+}
+.fifth>.fifth-content>h3{
+    font-size: 30px;
+    font-weight: 900;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   text-align: center;
+}
+.fifth>.fifth-footer-content{
+/* border: 2px solid black; */
+width: 90%;
+position: absolute;
+bottom: 15%;
+left: 5%;
+}
+
+.fifth>.fifth-footer-content>.top{
+    /* background-color: aqua; */
+    display: flex;
+    justify-content:start;
+    width: 100%;
+   margin: 0 auto;
+
+}
+.fifth>.fifth-footer-content>.top h2{
+    /* border: 2px solid black; */
+    text-align: center;
+   position: relative;
+   width: 120%;
+   color:black;
+   font-size: 33px;
+}
+.fifth>.fifth-footer-content>.top h2:before{
+    content: "";
+    background-color: rgb(10, 10, 10);
+    height: 70%;
+    width: 8%;
+    position: absolute;
+    top: 5%;
+    left: -2%;
+    border-radius: 50%;
+}
+
+ 
+
+.fifth>.fifth-footer-content>.bottom{
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: center;
+     /* background-color: wheat; */
+     margin: 5px 0 !important;
+}
+.fifth>.fifth-footer-content>.bottom h2{
+    /* border: 2px solid black; */
+    text-align: center;
+   position: relative;
+   width: 50%;
+   color: rgb(10, 10, 10);
+   font-size: 33px;
+}
+.fifth>.fifth-footer-content>.bottom h2:before{
+    content: "";
+    background-color: rgb(10, 10, 10);
+    height: 70%;
+    width: 6%;
+    position: absolute;
+    top: 15%;
+    left: -3%;
+    border-radius: 50%;
+}
+       /* footer */
+}

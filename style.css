@@ -1,0 +1,458 @@
+*{
+      margin: 0px;
+      padding:0px;
+      box-sizing: border-box; 
+}
+.main{
+
+
+      background-image:url(https://img.freepik.com/free-photo/white-keyboard-earphone-coffee-cup-eyeglasses-pen-spiral-notepad-against-black-desk_23-2148052541.jpg?t=st=1713537579~exp=1713541179~hmac=b2083ef9b1cefedb9b447a7478628547f34dde76e6b50fa184df7303ec57db3a&w=740) ;
+      background-position: center;
+      background-size: 100% 100%;
+      background-repeat: no-repeat;
+
+      width: 100%;
+      /* border: 5px solid rgb(68, 5, 241); */
+      height: 150vh;
+      position: relative;
+}
+.para{
+      margin-top: 2px;
+      color:pink;
+      border-left : 5px solid pink;
+      height: 10rem;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      /* border: 3px solid rgb(123, 255, 0); */
+      width: 30%;
+      position: absolute;
+      top: 40%;
+      left: 39rem;
+      margin-bottom: 50px;
+}
+.para>.fs-1{
+    font-size: 65px;
+    /* border: 4px solid gold; */
+
+}
+.para >p{
+      position: relative;
+    /* border: 4px solid gold; */
+     left: 13px;
+}
+.active{
+      text-decoration: none;
+}
+.main>.navmenu{
+    margin-top: 80px;
+    /* border: 2px solid aqua; */
+    width: 60%;
+    position: absolute;
+    bottom: 100px;
+    left: 20rem;
+
+}
+.main>.navmenu>ul{
+    /* border: 2px solid lime; */
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+.main>.navmenu>ul>li{
+    /* border: 2px solid red; */
+    padding: 3px;
+    width: 100%;
+    background-color: white;
+    font-size: 20px;
+    font-weight: 70;
+    border-radius: 75px;
+    margin: 5px 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.main>.navmenu>ul>li>.fa-arrow-right{
+    border: 2px solid black;
+    border-radius: 50%;
+    padding: 10px;
+    background-color: black;
+    color: whitesmoke;
+}
+.main>.navmenu>ul>li>a{
+    color: black;
+}
+
+
+/* funds section */
+
+.funds{
+      margin: 5px;
+      /* border: 2px solid blue; */
+      height: 100vh;
+
+      background-image: linear-gradient(to top,rgb(0, 0, 0,1),rgba(22, 20, 20, 0.2)),
+      url('https://img.freepik.com/free-photo/billie-dollar-money-background_1150-749.jpg?t=st=1713542968~exp=1713546568~hmac=ed8202506c0bd89b1bff38d693ecaa2d38c804b47040a9517fc2b0da60dad6dd&w=996');
+      background-repeat: no-repeat;
+      background-position: top;
+      background-size: 100% 100%;
+    
+
+  }
+  .funds>.heading{
+      /* border: 2px solid aqua; */
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 13px;
+      position: relative;
+      top: 150px;
+  }
+  .funds>.heading>h1{
+      /* border: 3px solid purple; */
+      font-size: 100px;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      background-color: gold;
+      padding: 0px 20px;
+      margin-top: 100px;
+    
+  }
+  .funds>.heading>.right-heading{
+    /* border: 3px solid rgb(201, 235, 8); */
+    margin-top: 100px;
+    
+      color: gold;
+      font-size: 10px;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  .arrow>h1{
+    color: gold;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    border: 2px solid gold;
+    box-sizing: content-box;
+    width: fit-content;
+    text-align: center;
+    margin-left: 42rem;
+    position: relative;
+    margin-top: 170px;
+
+    
+} 
+
+.arrow>h1>i{
+    /* border: 2px solid orange; */
+    padding: 10px;
+    position: relative;
+    color: black;
+    background-color: gold;
+}
+.funds-bottom{
+    margin-top: 30px;
+    color: white;
+    /* border: 3px solid rgb(196, 44, 44); */
+    background-color: rgb(10, 9, 9);
+    /* border: 2px solid red; */
+    font-size: 25px;
+  line-height: 25px;
+  position:relative;
+  margin-top: 170px;
+
+
+}
+.funds-bottom-text{
+  
+
+}
+.funds-bottom>.funds-bottom-text>h1{
+/* border: 2px solid aqua; */
+border-left: 4px solid gold;  
+height: 15rem;
+margin-left: 40rem;
+padding-left: 20px;
+}
+
+
+/* circle section */
+
+  /* orange dot */
+  .txt{
+      font-size: 30px;
+      text-align: center;
+      /* border: 2px solid green; */
+      width: 30vw;
+      margin: 0 auto;
+
+      
+  }
+  .txt::before{
+content: '';
+background-color: orangered;
+height: 50%;
+width: 8%;
+border-radius: 50%;
+
+position: absolute;
+top: 20%;
+left: -20%;
+
+  }
+  /* .txt::after{
+/* content: 'Af'; */
+  
+
+
+  body{
+      padding: 20px;
+  }
+  .three{
+   
+      /* border: 2px solid blue; */
+      margin: 5px;
+
+      height: 140vh;
+      width: 100%;
+
+      overflow: hidden;
+
+  }
+
+
+
+  .three>.three-top{
+      /* border: 2px solid black; */
+      height: 60%;
+
+      position: relative;
+  }
+  .three>.three-top>.three-top1{
+      background-image: url('https://img.freepik.com/free-photo/home-room-design-with-copy-space_23-2148786463.jpg?t=st=1713609443~exp=1713613043~hmac=d27526c8956dab48ded2e6234e83f6577641b076278057592ad98e8bfbb0a70c&w=1380');
+      background-repeat: no-repeat;
+      background-size: 100% 100%;
+      background-position: center;
+      height: 100%;
+      width: 100%;
+
+  }
+  .three-top-circle{
+      background-color: orangered;
+      border-radius: 50%;
+  }
+  .three>.three-top>.three-top2{
+      height: 200px;
+      width: 200px;
+
+      position: absolute;
+      top: -12%;
+      left: -5%;
+     
+  }
+  .three>.three-top>.three-top3{
+      height: 150px;
+      width: 150px;
+
+      z-index: 1000;
+
+      position: absolute;
+      bottom: -15%;
+      left: -5%;
+    
+  }
+  .three>.three-top>.three-top4{
+      height: 100px;
+      width: 100px;
+     
+      position: absolute;
+      bottom: 0;
+      right: -3.5%;
+  }
+  .three>.three-bottom{
+      background-color: black;
+      height: 40%;
+
+      position: relative;
+  }
+  .three>.three-bottom>.three-bottom-heading{
+      border: 2px solid black;
+      padding: 30px;
+  }
+  .three .three-bottom-heading>h1{
+      text-align: center;
+      font-size: 80px;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      color:orangered;
+  }
+  .three .three-bottom-heading>p{
+      text-align: center;
+      font-size: 40px;
+      font-weight: 100;
+      
+      color:orangered;
+  }
+  .three-bottom .three-bottom-body{
+      /* border: 2px solid blue; */
+      position: absolute;
+      width: 100%;
+      bottom: 20px;
+      left: 0;
+  }
+  .three-bottom .three-bottom-body>h2{
+color: white;
+margin: 5px auto;
+/* background-color: aqua; */
+width: 50%;
+text-align: start;
+position: relative;
+margin-left: 40rem;
+  }
+  .three-bottom .three-bottom-body>h2::before{
+      content: '';
+      background-color: orangered;
+      height: 50%;
+      width: 3%;
+      border-radius: 50%;
+      position: absolute;
+      top: 20%;
+      left: -3rem;
+    
+  }
+/* horizonal line */
+hr {
+    border:10px;
+    color: #fffbfb;
+    overflow: visible;
+    text-align: center;
+    height: 5px;
+    width: 80;
+    border-top: 3px double #f5f2f2;
+
+  }
+
+  
+/* footer section */
+ 
+  body{
+      padding: 20px;
+  }
+  .fifth{
+      /* border: 2px solid black; */
+      height: 120vh;
+      padding: 20px;
+
+      position: relative;
+
+      background-image: url('https://www.shutterstock.com/shutterstock/photos/501125683/display_1500/stock-photo-stylish-office-table-desk-workspace-with-laptop-diary-succulent-on-white-background-flat-lay-501125683.jpg');
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+  }
+  .fifth>.fifth-heading{
+      /* border: 2px solid black; */
+  }
+  .fifth>.fifth-heading>h1{
+      font-size: 130px;
+      color: black;
+      text-align: center;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  .fifth>.fifth-content{
+      /* border: 2px solid green; */
+      line-height: 40px;
+  }
+  .fifth>.fifth-content>p{
+font-size: 40px;
+color: black;
+font-weight: 900;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;
+  }
+  .fifth>.fifth-content>h2{
+      background-color: black;
+      text-align: center;
+      color: white;
+      width: 50%;
+      margin: 25px auto;
+      position: relative;
+      z-index: 10;
+  }
+  .fifth>.fifth-content>h2::before{
+      content: '';
+      background-color: transparent;
+      border: 6px solid black;
+      height: 100%;
+      width: 90%;
+
+      position: absolute;
+      top: 25%;
+      left: 4%;
+
+      z-index: -1;
+
+
+  }
+  .fifth>.fifth-content>h3{
+      font-size: 30px;
+      font-weight: 900;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     text-align: center;
+  }
+  .fifth>.fifth-footer-content{
+/* border: 2px solid black; */
+width: 90%;
+position: absolute;
+bottom: 5%;
+left: 5%;
+  }
+  
+  .fifth>.fifth-footer-content>.top{
+      /* background-color: aqua; */
+      display: flex;
+      justify-content:start;
+      width: 100%;
+      margin: 10px 0;
+
+  }
+  .fifth>.fifth-footer-content>.top h2{
+      /* border: 2px solid black; */
+      text-align: center;
+     position: relative;
+     width: 100%;
+     color:black;
+  }
+  .fifth>.fifth-footer-content>.top h2:before{
+      content: "";
+      background-color: rgb(10, 10, 10);
+      height: 60%;
+      width: 4%;
+      position: absolute;
+      top: 15%;
+      left: 0;
+      border-radius: 50%;
+  }
+
+  .fifth>.fifth-footer-content>.bottom{
+      /* background-color: wheat; */
+      margin: 10px 0;
+  }
+  .fifth>.fifth-footer-content>.bottom{
+      /* background-color: aqua; */
+      display: flex;
+      justify-content: center;
+  }
+  .fifth>.fifth-footer-content>.bottom h2{
+      /* border: 2px solid black; */
+      text-align: center;
+     position: relative;
+     width: 30%;
+     color: rgb(10, 10, 10);
+  }
+  .fifth>.fifth-footer-content>.bottom h2:before{
+      content: "";
+      background-color: rgb(10, 10, 10);
+      height: 60%;
+      width: 4%;
+      position: absolute;
+      top: 15%;
+      left: 0;
+      border-radius: 50%;
+  }
